@@ -10,7 +10,7 @@ This project is currently a work in progress.
 
 ## Project Specs
 
-All Components were purchased through Ebay, new purcasing options are provided in the table below.
+All Components were purchased through Ebay, new purchasing options are provided in the table below.
 
 | **Component**      | **Details**              | **Link**            |
 |--------------------|--------------------------|---------------------|
