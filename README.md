@@ -1,5 +1,7 @@
 # ESP32 Mini Drone (In Progress)
 
+<img src="https://i.imgur.com/1Zp31QB.jpeg" width="80%" />
+
 ## Description
 
 This project uses the **ESP32 microcontroller** combined with mini DC motors, a lithium-ion battery, and an accelerometer/gyroscope to create a functioning mini drone. The drone currently measures approximately 145x145x25 (mm) and weighs around 160 grams.
